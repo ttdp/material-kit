@@ -8,6 +8,7 @@
     "dev": "vite",
     "host": "vite --host",
     "build": "vite build",
+    "preview": "vite preview --port 8080",
     "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\"",
     "lint:fix": "eslint --fix \"src/**/*.{js,jsx,ts,tsx}\"",
     "prettier": "prettier --write \"src/**/*.{js,jsx,ts,tsx}\"",
